@@ -1,0 +1,25 @@
+_repo: Um-conto-portuguez--episodio-da-guerra-civil--a-Maria-da-Fonte_25313
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mascarenhas, Miguel J. T.
+    gutenberg_agent_id: '31176'
+    url: http://www.gutenberg.org/2009/agents/31176
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25313'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History -- Maria II, 1834-1853'
+- !lcc 'DP'
+title: 'Um conto portuguez: episodio da guerra civil: a Maria da Fonte'
+url: http://www.gutenberg.org/ebooks/25313
